@@ -1,0 +1,23 @@
+<svg width="165" height="38" viewBox="0 0 165 38" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-8%" y="-56.2%" width="116.1%" height="212.5%" filterUnits="objectBoundingBox" id="pa9vcs3yva">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0.329411765 0 0 0 0 0.709803922 0 0 0 0 0.776470588 0 0 0 1 0" in="shadowBlurOuter1"/>
+        </filter>
+        <text id="xhkqik428b" font-family="PingFangTC-Medium, PingFang TC" font-size="16" font-weight="400" fill="#FFF">
+            <tspan x="18.328" y="28">分享你的觀點！</tspan>
+        </text>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M161 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0 1 164.5 4v30c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0 1 161 37.5H11a3.489 3.489 0 0 1-2.475-1.025A3.489 3.489 0 0 1 7.5 34v-9.055L1.33 19.35l5.725-6.082.445-9.257a3.49 3.49 0 0 1 1.025-2.487A3.489 3.489 0 0 1 11 .5h150z" stroke="#54B5C6" fill-opacity=".799" fill="#54B5C6"/>
+        <g fill="#FFF" transform="translate(.672)">
+            <use filter="url(#pa9vcs3yva)" xlink:href="#xhkqik428b"/>
+            <use xlink:href="#xhkqik428b"/>
+        </g>
+        <g fill="#FFF" fill-rule="nonzero">
+            <path d="M151.714 14.286a.833.833 0 0 1 .065 1.106l-.065.072-8.25 8.25a.833.833 0 0 1-1.243-1.106l.065-.072 8.25-8.25a.833.833 0 0 1 1.178 0z"/>
+            <path d="M151.714 22.536a.833.833 0 0 1-1.106 1.243l-.072-.065-8.25-8.25a.833.833 0 0 1 1.106-1.243l.072.065 8.25 8.25z"/>
+        </g>
+    </g>
+</svg>

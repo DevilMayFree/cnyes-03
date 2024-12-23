@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/l/font?kit=S6u9w4BMUTPHh7USewqdFhfZ3-4B28Jv7vc&skey=91f32e07d083dd3a&v=v24) format('woff2');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=S6uyw4BMUTPHvxwiUT-eLhTc2OsC1s0&skey=2d58b92a99e1c086&v=v24) format('woff2');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/l/font?kit=S6u9w4BMUTPHh6UVewqdFhfZ3-4B28Jv7vc&skey=3480a19627739c0d&v=v24) format('woff2');
+}
